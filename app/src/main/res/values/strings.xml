@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Direct Boot Demo</string>
+    <string name="str_set_alarm">Set Alarm</string>
+    <string name="alarm">Alarm !!!!</string>
+    <string name="str_introduction">This demo helps to understand Direct Boot introduced in Android 7.0.
+        Through this demo, you can set an alarm. This alarm is stored in the database. Even after the device enters
+        Direct Boot Mode, the alarms set before reboot will go off. Note that this demo will work in devices having Marshmallow
+        or newer Android OS. Try it out !!!!
+    </string>
+</resources>
